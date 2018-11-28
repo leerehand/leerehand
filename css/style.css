@@ -1,0 +1,124 @@
+.inhalt {
+    margin-top: 30px;
+
+}
+
+.profilbild_image {
+    border-radius: 1000px;
+    margin-bottom: 20px
+}
+
+.artikel-metadata {
+    margin-top: 20px
+}
+
+.artikelbild {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.bildunterschrift {
+    margin-bottom: 20px
+}
+
+.artikel {
+    margin-top: 20px;
+}
+
+.kopf {
+    position: fixed; !important   
+    margin-top: 20px;
+    margin-left: -30px;
+      line-height: 2.4;
+    background-color: #f8f9fa;
+    padding-top: 50px; 
+
+    z-index: 1 /* Ebenen Index */
+}
+
+.fuss {
+  position: fixed !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1030;
+
+}
+  
+.fusstext {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 2.9;
+    word-spacing: 0.8em;
+   
+}
+
+.kopftext {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.4;
+   
+}
+
+margin-bottom: 20px;
+font-size: 20px;
+font-weight: 300;
+line-height: 1.4;
+}
+
+
+.navbar-color {
+    background-color: #222;
+    border-color: #080808;
+}
+
+.bg-mint {
+    background-color: #d3dc5f !important;
+}
+
+
+.title {
+    letter-spacing: 0.01em;
+    padding-top: 0.7em;
+  /* font-family: Comic Sans MS;*/
+      font-family: Bradley Hand itc;
+    text-align: center !important;
+}
+
+.line30 {
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: 1px;
+    padding-bottom: 30px
+    
+}
+
+.bodycolor {
+   background-color: #c8e3c8 !important; 
+}
+
+
+
+.shadow-r-l {
+  box-shadow: 0 0 0.6rem 0.6rem rgba(0, 0, 0, 0.2) !important;
+}
+
+.border-out {
+    border: 5px;
+    border-style: outset;
+    border-radius: 15px  ;
+    border-color: blue;
+}
+
+
+
+
+.bg-image {
+    background:url('images/hinterbox.jpg');
+    background-size:80% ;
+    background-repeat: no-repeat;
+}
