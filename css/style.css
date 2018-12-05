@@ -85,7 +85,8 @@ line-height: 1.4;
     font-size: 3.0em;   
     padding-top: 0.7em;
    /*  font-family: Comic Sans MS; */
-    font-family: "Brush Script MT", "Bradley Hand itc", "cool jazz"; font-weight: 900;
+    font-family: "Brush Script MT", "Bradley Hand itc", "cool jazz", schoko-cooky; 
+font-weight: 900;
 
     text-align: center !important;
 }
