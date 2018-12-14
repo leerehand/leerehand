@@ -148,3 +148,11 @@ font-weight: 900;
     margin-top: 820px;
     
 }
+
+.ebene100 {
+    z-index: 100;
+}
+
+.ebene50 {
+    z-index: 50;
+}
