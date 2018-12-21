@@ -30,7 +30,7 @@
     margin-top: -8px;
    line-height: 2.4;
    background-color: #f8f9fa;
-    padding-top: 3px; 
+ 
 
     z-index: 1 /* Ebenen Index */
 }
@@ -155,4 +155,8 @@ font-weight: 900;
 
 .ebene50 {
     z-index: 50;
+}
+
+.navcolor {
+   background-color:  rgba( 189, 29, 29, 0.3 )   !important;
 }

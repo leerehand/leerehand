@@ -1620,6 +1620,7 @@ pre code {
 .table-hover .table-success:hover > td,
 .table-hover .table-success:hover > th {
   background-color: #b1dfbb;
+    width: 20%;
 }
 
 .table-info,
